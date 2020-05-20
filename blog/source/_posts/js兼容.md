@@ -266,7 +266,7 @@ module.exports = Config
 ```
 {
     "presets":[
-        "@babel/preset-env":[
+        "@babel/preset-env",[
             {
                 "useBuiltIns":"usage", //按需加载
                 "corejs": 3, //core-js版本
