@@ -23,7 +23,7 @@ tags:
 
 ```
 运行效果：
-![]('./img/css1.png')
+![](css1.png)
 
 通过 mini-css-extract-plugin 插件，将打包后的css通过link引入
 好处：页面不会闪白 弊端：会发生link请求
@@ -51,7 +51,7 @@ tags:
     }
 ```
 运行效果：
-![]('./img/css2.png')
+![](css2.png)
 
 完整配置 webpack.config.js：
 
